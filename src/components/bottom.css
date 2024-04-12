@@ -1,0 +1,81 @@
+.btm-top{
+    display: flex;
+    width: 340px;
+height: 40px;
+gap: 0px;
+opacity: 0px;
+padding-left: 10px;
+padding-right: 10px;
+margin-top: -5px;
+
+}
+.input-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 265px;
+    height: 40px;
+    padding: 10px 20px;
+    gap: 0px;
+    border-radius: 10px ;
+    border: 1px ;
+    opacity: 0px;
+    border: 1px solid #E3ECFF;
+    background: #FFFFFF;
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 400;
+line-height: 19.5px;
+text-align: left;
+}
+
+.attach-icon{
+    color:gray;
+    height: 20px;
+    width: 20px;
+}
+
+.btm-btn{
+    width: 70px;
+height: 40px;
+left: 270px;
+gap: 10px;
+border-radius: 10px;
+opacity: 0px;
+background: #4C82EF;
+padding:  8px 30px;
+color: white;
+margin-left: 5px;
+
+}
+.btm-end{
+    display: flex;
+    justify-content: center;
+    width: 340px;
+height: 20px;
+gap: 5px;
+opacity: 0px;
+justify-content: center;
+margin-top: 10px;
+align-items: center;
+}
+.btm-end p{
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 400;
+line-height: 19.5px;
+text-align: left;
+color: #B1B1B1;
+
+}
+.btm-end >.name{
+    color: #5b5e65;
+
+}
+
+.imgs{
+    margin-left: -15px;
+    height: 38px;
+    width: 38px;
+    filter:grayscale(90%)
+}

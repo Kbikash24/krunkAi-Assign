@@ -1,0 +1,129 @@
+.hero{
+    height: 640px;
+    width: 350px;
+    background: white;
+}
+.top{
+    background:#EFF3FD;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    
+   
+}
+.top-name{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.top-left{
+    display: flex;
+    gap: 10px;
+    height: 60px;
+    width: 191px;
+    color: #4C82EF;
+   
+}
+.top-left h1{
+    font-family: Poppins;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: left;
+
+}
+
+.top-left h2{
+    font-family: Poppins;
+font-size: 15px;
+font-weight: 500;
+line-height: 22.5px;
+text-align: left;
+
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+    background: white;
+    border-radius: 50%;
+    position: relative;
+   
+}
+.top-right{
+     display: flex;
+    width: Hug (62px)px;
+    height: Fill (60px)px;
+    padding: 15px 0px 15px 0px;
+    gap: 8px;
+    opacity: 0px;
+    
+    
+}
+.top-right h1{
+    height: 10px;
+    width: 49px;
+    margin-top: 15px;
+    font-family: poppins;
+    font-size: 15px;
+    color:#4C82EF;
+}
+.online{
+    height: 8px;
+    width: 8px;
+    background: #3FE225;
+ border-radius: 50%;
+ margin-top: 15px;
+    
+}
+
+.status{
+  
+     margin: 1px;
+   height: fit-content;
+   position: relative;
+   top: 1px;
+}
+.text{
+     font-family: Poppins;
+font-size: 15px;
+font-weight: 500;
+line-height: 10px;
+text-align: left;
+
+}
+
+.bottom{
+    margin-top: -50px;
+    width:335px;
+    height: 80px;
+    padding: 10px 0px 0px 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    
+    background: linear-gradient(100.27deg, #EFF3FD 33.17%, rgba(239, 243, 253, 0) 122.24%);
+
+    
+}
+.vector-1{
+    width: 12px;
+height: 12px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #F2CF18;
+border-radius: 50%;
+background: #F2CF18;
+}
+
+.icon img{
+    width: 50px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 30px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
