@@ -51,7 +51,7 @@ const Hero = () => {
         <div className="text-box">
           <div className="txt-b">
             <div className="img">
-              <img src="public\images\bag.jpeg"></img>{" "}
+              <img src="src\assets\images\bag.jpeg"></img>{" "}
               <div className="img-text">
                 <div className="bag"> <p>Bags of Timpu</p> <div className="vector-2"></div></div>
                 

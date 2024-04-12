@@ -12,7 +12,7 @@ const Bottom = () => {
        
        <button className="btm-btn"><FaAngleRight /></button>
       </div>
-      <div className="btm-end"><p>Powered by </p><p className="name">Krunk.ai</p><img src="public\images\icon.png" className="imgs"></img></div>
+      <div className="btm-end"><p>Powered by </p><p className="name">Krunk.ai</p><img src="src\assets\images\icon.png" className="imgs"></img></div>
     </div>
   );
 };

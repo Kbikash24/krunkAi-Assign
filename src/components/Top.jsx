@@ -5,7 +5,7 @@ const Top = () => {
   return (
     <div className="top">
       <div className="top-left">
-        <div className="icon"><img src="public\images\chatbot.png" alt="" /></div>
+        <div className="icon"><img src="src\assets\images\chatbot.png" alt="" /></div>
         <div className="title">
           <div className="top-name"><h1>Timpu </h1><div className="vector-1"></div></div>
        
